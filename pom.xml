@@ -9,7 +9,6 @@
   <name>Hello Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
-  <name>Java :: Simple Project :: SonarQube Scanner for Maven</name>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <sonar.language>java</sonar.language>
